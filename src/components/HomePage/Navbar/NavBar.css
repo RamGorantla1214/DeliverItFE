@@ -1,0 +1,44 @@
+    .img {
+        height: 5vh;
+        padding-right: 2vh;
+    }
+    
+    .navbar-class {
+        background-color: seagreen !important;
+        border-bottom: 3px solid yellow;
+        /* background-image: linear-gradient(to right, darkcyan, gray);*/
+    }
+    
+    a {
+        padding-left: 0px !important;
+        color: black !important;
+    }
+    
+    .dropdown-class {
+        margin-top: 6px !important;
+    }
+    
+    .button-class {
+        height: fit-content;
+        border-radius: 20px;
+    }
+    
+    svg {
+        color: black;
+    }
+    
+    .svg_icons {
+        transform: scale(1.8);
+    }
+    
+    .svg_location {
+        transform: scale(1.2);
+    }
+    
+    .navbar {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }

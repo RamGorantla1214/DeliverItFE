@@ -1,0 +1,46 @@
+.footer-icons {
+    height: 2rem;
+    width: 1.5rem;
+}
+
+.footer-class {
+    /* margin-top: 6rem; */
+    bottom: 0rem;
+    background: transparent;
+    padding-left: 1.5rem;
+}
+
+.list-class {
+    list-style: none;
+    font-size: 13px;
+    padding-left: 0.65rem;
+}
+
+.footer-li {
+    width: 13rem;
+}
+
+.service {
+    border: 1px solid gray;
+    padding: 6px 6px 6px 6px;
+    justify-content: center;
+}
+
+.footer-head {
+    color: white;
+    font-weight: 800;
+}
+
+li {
+    list-style: none;
+    color: black;
+}
+
+h6 {
+    display: flex;
+    width: 10rem;
+}
+
+.second-list-col {
+    padding-left: 7rem !important;
+}

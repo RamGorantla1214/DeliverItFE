@@ -1,0 +1,23 @@
+/* @media screen and (min-width:770px) {
+    .card-class {
+        width: 22rem;
+        margin-left: 5rem;
+    }
+} */
+
+
+/* @media screen and (min-width:583px) {
+    .card-class {
+        width: 22rem;
+        margin-left: 5rem;
+    }
+} */
+
+.cardHover:hover {
+    /* padding: 5px 5px 5px 5px !important; */
+    /* border: 2px solid yellow; */
+    transform: scale(1.06);
+    transition: .3s ease;
+    /* border: 2px soild white !important;
+    margin: -2px -2px -2px -2px; */
+}

@@ -1,0 +1,38 @@
+.img-class {
+    height: 70px;
+    width: 70px;
+}
+
+.text-ellipsis {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-weight: 400;
+}
+
+.card-class>img {
+    margin-left: calc(36%);
+}
+
+.btn-class {
+    border-radius: 20px;
+    border: 2px solid green;
+    color: green;
+}
+
+.btn-class:hover {
+    border: 2px solid orange;
+    color: green;
+}
+
+.card-class {
+    border: 2px solid gray;
+}
+
+.price {
+    font-weight: 500;
+}
+
+.svg-class:hover {
+    color: orange;
+}
