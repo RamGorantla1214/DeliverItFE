@@ -30,6 +30,7 @@
     "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
      "test": "react-scripts test --env=jsdom",
      "eject": "react-scripts eject",
+    "heroku buildpacks":"set mars/create-react-app",
      "heroku-prebuild": "npm install -f",
     "heroku-postbuild": "npm run build"
 },
